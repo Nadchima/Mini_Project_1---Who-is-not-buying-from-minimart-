@@ -1,4 +1,4 @@
-# Who-is-not-buying-from-minimart?
+# Who is not buying from minimart?
 &nbsp;&nbsp;&nbsp;&nbsp;Observe the following data: https://github.com/mafudge/datasets/tree/master/minimart  
 &nbsp;&nbsp;&nbsp;&nbsp;You are to display names of customers who did not buy from minimart in any given month.  
 HINT  
