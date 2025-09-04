@@ -4,6 +4,6 @@
 HINT  
 &nbsp;&nbsp;&nbsp;&nbsp;Access the raw data from this base url: https://raw.githubusercontent.com/mafudge/datasets/refs/heads/master/minimart/  
 
-# Create a UI for users to find out which customers did not make purchases in which month.  
+**Create a UI for users to find out which customers did not make purchases in which month.**  
 &nbsp;&nbsp;&nbsp;&nbsp;**display** → Display the data in a visually appealing way → Part of the UI  
 &nbsp;&nbsp;&nbsp;&nbsp;**interact_manual** → Create buttons/fields for users to select values → Allows the program to have a user-friendly UI  
